@@ -1,0 +1,3 @@
+ru\cubesolutions\evam\sberbank\pilot\oa\Consumer.class
+ru\cubesolutions\evam\sberbank\pilot\oa\Produces.class
+ru\cubesolutions\evam\sberbank\pilot\oa\SendSmsToKafka.class
